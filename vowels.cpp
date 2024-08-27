@@ -25,11 +25,11 @@ int main()
 	
 	
 	
-	value of character:a
+	/*value of character:a
 character is a vowel
+		/*
 --------------------------------
-Process exited after 3.271 seconds with return value 0
-Press any key to continue . . .
+
 
 
 
