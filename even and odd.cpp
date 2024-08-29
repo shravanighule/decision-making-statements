@@ -1,5 +1,5 @@
-//Gayatri Apotikar
-//23070123055
+//shravanighule
+//23070123056
 #include <iostream>
 using namespace std;
 int main()
